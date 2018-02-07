@@ -31,6 +31,7 @@
 [submodule "common/VIM/pack/pea/start/deoplete.nvim"]
 	path = common/VIM/pack/pea/start/deoplete.nvim
 	url = https://github.com/Shougo/deoplete.nvim
+    ignore = untracked
 [submodule "common/VIM/pack/pea/start/deoplete-go"]
 	path = common/VIM/pack/pea/start/deoplete-go
 	url = https://github.com/zchee/deoplete-go
