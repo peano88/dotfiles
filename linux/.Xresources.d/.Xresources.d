@@ -1,0 +1,1 @@
+/home/pea/dotfiles/linux/.Xresources.d
