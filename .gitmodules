@@ -25,9 +25,6 @@
 [submodule "common/VIM/pack/pea/start/vim-hug-neovim-rpc"]
 	path = common/VIM/pack/pea/start/vim-hug-neovim-rpc
 	url = https://github.com/roxma/vim-hug-neovim-rpc
-[submodule "common/VIM/pack/pea/start/nvim-yarp"]
-	path = common/VIM/pack/pea/start/nvim-yarp
-	url = https://github.com/roxma/nvim-yarp
 [submodule "common/VIM/pack/pea/start/deoplete.nvim"]
 	path = common/VIM/pack/pea/start/deoplete.nvim
 	url = https://github.com/Shougo/deoplete.nvim
