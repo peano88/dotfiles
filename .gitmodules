@@ -31,3 +31,6 @@
 [submodule "common/VIM/pack/pea/start/vim-airline"]
 	path = common/VIM/pack/pea/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "common/VIM/pack/pea/start/deoplete.nvim"]
+	path = common/VIM/pack/pea/start/deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git
