@@ -185,3 +185,6 @@ autocmd FileType go nmap <buffer> <leader>e <plug>(go-rename)
 
 " Use deoplete.
 let g:deoplete#enable_at_startup = 1
+
+" Vim-Latex Target PDF as default
+let g:Tex_DefaultTargetFormat = 'pdf'
