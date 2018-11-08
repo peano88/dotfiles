@@ -37,3 +37,6 @@
 [submodule "common/VIM/pack/pea/start/nvim-yarp"]
 	path = common/VIM/pack/pea/start/nvim-yarp
 	url = https://github.com/roxma/nvim-yarp.git
+[submodule "common/VIM/pack/pea/start/vim-vue"]
+	path = common/VIM/pack/pea/start/vim-vue
+	url = https://github.com/posva/vim-vue.git
